@@ -8,10 +8,9 @@ Redirecting to https://aime3329.github.io/Aime/
 # **La traduction dans le sport**
 
 
-
 ***
-
-[Accueil](index.fr) [Administratif](administratif.fr) [Communication](Communication.fr) [Emploi & Formations](Emploi%20et%20formation.fr) [Autres missions](autres.fr)
+[Accueil](https://github.com/Aime3329/Aime/blob/main/index.fr) [Administratif](https://github.com/Aime3329/Aime/blob/main/administratif.fr) [Communication](https://github.com/Aime3329/Aime/blob/main/Communication.fr) [Emploi & Formations](https://github.com/Aime3329/Aime/blob/main/Emploi%20et%20formation.fr) [Autres missions](https://github.com/Aime3329/Aime/blob/main/autres.fr)
+***
 
 
 
