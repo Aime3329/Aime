@@ -7,7 +7,6 @@ Redirecting to https://aime3329.github.io/Aime/
 
 # **La traduction dans le sport**
 
-![](https://tradupla.com/wp-content/uploads/2018/03/deportes-300x200.jpg.webp)
 
 
 ***
